@@ -1,6 +1,7 @@
 
 
 class Company:
+	
 	def __init__(self, name, address):
 		self.__name = name
 		self.__address = address
